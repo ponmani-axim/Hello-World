@@ -1,5 +1,5 @@
 ---
-description: Additional page added in the document
+description: sample text here
 ---
 
 # Second Page

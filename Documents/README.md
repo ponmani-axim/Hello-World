@@ -60,12 +60,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 
-<figure><img src=".gitbook/assets/Siliconwaves wiki.png" alt=""><figcaption><p>Uploaded image</p></figcaption></figure>
-
-
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Sample image file </p></figcaption></figure>
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td>Card Text 1</td><td></td></tr><tr><td></td><td>Card Text 2</td><td></td></tr><tr><td></td><td>Card Text 3</td><td></td></tr></tbody></table>
-
-{% embed url="https://www.figma.com/proto/JsnlxNhhsvBWhJe1Mhrcc6/Siliconwaves?node-id=8002-414&page-id=0:1&scaling=scale-down&starting-point-node-id=8023:209&t=bJDGc5Lg6aYqLsXD-1&type=design&viewport=-23751,2278,0.36" %}
-Embedded figma&#x20;
-{% endembed %}
